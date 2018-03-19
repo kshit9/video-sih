@@ -1,7 +1,3 @@
-// Muaz Khan   - www.MuazKhan.com
-// MIT License - www.WebRTC-Experiment.com/licence
-// Source Code - https://github.com/muaz-khan/WebRTC-Scalable-Broadcast
-
 var fs = require("fs");
 var path = require('path');
 
